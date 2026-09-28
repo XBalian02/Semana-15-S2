@@ -1,0 +1,14 @@
+[
+    {
+        "id_venta": "V-001",
+        "usuario_nombre": "Xavichi",
+        "producto_nombre": "Ramen de Cerdo",
+        "precio": 5.5
+    },
+    {
+        "id_venta": "V-002",
+        "usuario_nombre": "DonCajero",
+        "producto_nombre": "Agua de Hielo",
+        "precio": 1.5
+    }
+]
